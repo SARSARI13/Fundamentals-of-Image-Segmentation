@@ -28,7 +28,7 @@ To run the notebooks, ensure you have the following dependencies installed:
 - Using Gradient Operators (Roberts, Prewitt, Sobel)
 - Local Maximum Suppression
 - Hysteresis Thresholding for Edge Detection
-- Using Robinson Multidirectional Gradient Operators for 
+- Using Robinson Multidirectional Gradient Operators
 - Edge Detection with Canny Operator
 - Applying K-means for Image Segmentation
 
