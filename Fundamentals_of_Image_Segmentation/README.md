@@ -1,7 +1,7 @@
 # Fundamentals of Image Segmentation
 
 
-1. The goal of the "Fundamentals of Image Segmentation" project is to explore and apply various fundamental concepts and techniques used in image processing. 
+1. The goal of the "Fundamentals of Image Segmentation" project is to explore and apply various fundamental concepts and techniques used in image processing.
 
 
 ## Installation and Dependencies
